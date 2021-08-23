@@ -1,0 +1,85 @@
+.card{
+width: 940px;
+height: 390px;
+background-color:  hsl(244, 38%, 16%);
+margin: 100px auto;
+border-radius: 0 10px 10px 0 ;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+
+
+}
+img {
+    position: relative;
+    left: 499px;
+    vertical-align: top;
+    border-radius: 0 10px 10px 0 ;
+    filter: opacity(0.5) drop-shadow(0 0 0 #6401a5);
+  }
+
+
+
+/*********texts*******/
+.first{
+    color:  hsl(0, 0%, 100%);
+    position: relative;
+    bottom: 370px;
+    margin-left: 60px;
+    
+    
+
+}
+.second{
+    color:  hsla(0, 0%, 100%, 0.6);
+    font-size:  15px;
+    position: relative;
+    bottom: 370px;
+    margin-left: 60px;
+    font-family: none;
+    
+}
+.purple{
+    color: purple;
+}
+
+.bottom{
+    position: relative;
+    bottom: 299px;
+    margin-left: 60px;
+    font-size: 11px;
+    color:  hsl(0, 0%, 100%);
+}
+
+.tem{
+    position: relative;
+    bottom: 349px;
+    position: relative;
+    left: 190px;
+    color:  hsl(0, 0%, 100%);
+}
+
+.que{
+    position: relative;
+    bottom: 386px;
+    margin-left: 300px;
+    color:  hsl(0, 0%, 100%);
+}
+.attribution{
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+
+}
+
+}
+/*** text**/
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%);
+    }
+    .color{
+        background-color:  hsl(233, 47%, 7%);
+    }
+    
